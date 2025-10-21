@@ -1,0 +1,86 @@
+Analyzing a Cyber Attack
+
+- TYPES OF MALWARE
+	- Spyware
+		- designed to track and spy on you, spyware monitors your online activity and can log every key you press on your keyboard
+	- Adware
+		- is often installed with some versions of software and is designed to automatically deliver advertisements to a user, most often on a web browser. ((common for adware to come with spyware)
+	- Backdoor
+		- used to gain unauthorized access by bypassing the normal authentication procedures to access a system.
+	- Ransomeware
+		- designed to hold a computer system or the data it contains captive until a payment is made.
+	- Scareware
+		- uses 'scare' tactics to trick you into taking a specific action. If you agree to execute the specific program, your system will become infected with malware.
+	- Rootkit
+		- designed to modify the operating system to creat a backdoor, which attackers can then use to access your computer remotely.
+	- Virus
+		- a type of computer program that, when executed, replicates and attaches itself to other executable files, such as document, by inserting its code. It can be relatively harmless, such as those that display a funny image. Or they can be destructive, such as modify or delete data.
+	- Trojan Horse
+		- carries out malicious operations by masking its true intent. Might appear legitimate but is, in fact, very dangerous. Trojans exploit your user privileges and are most often found in image files, audio files or games.
+	- Worms
+		- type of malware that replicates itself in order to spread from one computer to another. Unlike a virus, which requires a host program to run, worms can run by themselves.
+
+SYMPTOMS OF MALWARE
+	- an increase of central processing unit (CPU) usage, which slows down your device.
+	- you computer freezing or crashing often
+	- a decrease in your web browsing speed
+	- unexplainable problems with your network connections
+	- modified or deleted files
+
+METHODS OF INFILTRATION
+	- Social Engineering
+		- is the manipulation of people into performing actions or divulging confidential information. Often rely on people's willingness to be helpful, but they also prey on their weaknesses.
+	
+COMMON TYPE OF SOCIAL ENGINEERING
+	- Pretexting
+		- is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+	- Tailgating
+		- when an attack quickly follows an authorized person into a secure, physical location.
+	- Something for something (quid pro quo)
+		- when an attacker requests personal information from a person in exchange for something, like a free gift.
+
+DENIAL-OF-SERVICE
+	- are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. a DoS attack results in some sort of interruption of network service to users, devices, or applications
+
+Distributed DoS
+	- is similar to DoS attack but originates from multiple, coordinated sources. Like
+	- an attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems
+	- the zombie computers will constantly scan and infect more hosts, creating more and more zombie
+	- when ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
+
+BOTNET
+	- is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. A botnet is a group of bots, connected through the internet, that can be controller by a malicious individual or group.
+	Thesee bots can activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks.
+
+ON-PATH ATTACKS
+	- they intercept or modify communications between two devices, such as web browser and web server, either to collect information from or to impersonate one of the devices.
+Can be referred to as a man-in-the-middle or man-in-the-mobile attack.
+
+MAN-IN-THE-MIDDLE
+	- is when a cybercriminal takes control of a device without the user's knowledge. With this level of access, attacker can intercept and capture user information before it is sent to its intended destination
+
+MAN-IN-THE-MOBILE
+	- this is used to take control over a user's mobile device. When infeccted, the mobile device is instructed to exfiltrate user-sensitive information and send it to the attackers. ZeuS is one example.
+
+
+SEO (Search Engine Optimization) Poisoning 
+	- while many legitimate companies specialize in optimizing websites to better position them, attackers take advantage of popular search terms and use SEO to push malicious sites higher up the ranks of search results. 
+
+
+PASSWORD ATTACKS
+	- Password Spraying
+		- attempts to gain access to a system by 'spraying' a few commonly used passwords across a large number of accounts.
+	- Dictionary Attacks
+		- a hacker systematically tries every word in a dictionary or a list of commonly used words as a password.
+	- Brute-force attacks
+		- attacker uses all possible combinations of letters, numbers and symbols in the password space until they get it right.
+	- Rainbow attacks
+		- password in a computer system are not stored as plain text but as hashed values. A rainbow table is a large dictionary of precomputed hashes and the passwords from which they were calculated.
+		A rainbow attack compares the hash of a password with those stored in the rainbow table, when an attacker finds a match, they identify the password used to create the hash.
+	- Traffic interception
+		- plain text or unencrypted passwords can be easily read by other humans and machines by intercepting communications.
+		
+ADVANCED PERSISTENT THREATS
+	- a multi-phase, long term, stealthy and advanced operation against a specific target.
+	
+
