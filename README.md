@@ -33,18 +33,6 @@ While looking for a full-time opportunity, I’m dedicating my time to improve m
 
 ---
 
-## 🧱 Repository Structure
-road-to-cybersecurity/
-├── README.md
-├── notes/
-│   ├── 01-cisco-intro.md
-│   └── 02-splunk-fundamentals.md
-├── certificates/
-└── projects/
-
-
----
-
 ## 🧾 Next Steps
 - Complete Cisco free course
 - Complete Splunk Fundamentals 1 (When I am done with Cisco)
