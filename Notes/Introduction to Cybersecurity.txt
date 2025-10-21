@@ -1,0 +1,46 @@
+What is Cyber security?
+- is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm.
+
+Types of organizational data
+- Traditional Data
+	- typically generated and maintained by all organizations, big and small. Such as 
+		- Transactional data like buying and selling
+		- Intellectual property like patents, trademarks and new product plans
+		- Financial data like income statements, balance sheets
+- Internet of Things (IoT) and Big Data
+	- Is a large network of physical objects, such as sensors, software and etc. All of it are conntected to the internet, with the ability to collect and share data.
+
+Foundational principles for protecting information
+- CIA, Confidentiality, Integrity, Availbility.
+	- Confidentiality 
+		- is a set of rules that prevents sensitive information from being disclosed to unauthorized people
+	- Integrity 
+		- ensures that system information or processes are protected from intentional or accidental modification.
+	- Availbility 
+		- means that authorized users are able to access systems and data when and where needed.
+	
+Types of Attackers
+- Amateurs or Script Kiddies
+	- They are amateur or inexperienced hackers who use existing tools or instructions found on the internet to launch attacks.
+- White hat attacks (Good hacker)
+	- breaks into networks or computer systems to identify any weaknesses so that the security of a system or network can be improved
+- Grey hat attacks (In the middle hacker)
+	- may set out to find vulnerabilities in a system but they will only report their findings to the owners of a system if doing so coincides with their agenda.
+- Black hat attacks (Bad hacker)
+	- take advantage of any vulnerability for illegal personal, financial or political gain.
+	
+Internal and External Threats
+- Internal
+	- can accidentally or intentionally:
+		- mishandle confidential data
+		- facilitate outside attacks by connecting infected USB media into the organization's computer system
+		- invite malware onto the organization's network by clicking on malicious emails or website.
+- External
+	- Amateurs or skilled attackers outside of the organization can:
+		- exploit vulnerabilities in the network
+		- gain unauthorized access to computing devices
+		- use social engineeringh to gain unauthorized access to organizational data.
+
+The purpose of Cyberwarfare
+- resorting to cyberwarfare is to gain advantage over adversaries, whether they are nations or competitors.
+	
