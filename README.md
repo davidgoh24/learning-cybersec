@@ -18,12 +18,12 @@ While looking for a full-time opportunity, I’m dedicating my time to improve m
 
 | Stage | Course / Topic | Platform | Status |
 |--------|----------------|-----------|---------|
-| 1 | Introduction to Cybersecurity(Module 1) | Cisco Networking Academy | Done |
+| 1 | Introduction to Cybersecurity(Module 1) | Cisco Networking Academy | 🟩Completed |
 | 2 | Attacks, Concepts and Techniques(Module 2) | Cisco Networking Academy | ⏳Ongoing | 
-| 3 | Protecting your Data and Privacy(Module 3) | Cisco Networking Academy | ⏳Ongoing |
-| 4 | Protecting the Organization(Module 4) | Cisco Networking Academy | ⏳Ongoing |
-| 5 | Will Your Future Be in Cybersecurity?(Module 5) | Cisco Networking Academy | ⏳Ongoing |
-| 2 | Splunk Fundamentals 1 | Splunk Education (Free) |
+| 3 | Protecting your Data and Privacy(Module 3) | Cisco Networking Academy | ⬜Upcoming |
+| 4 | Protecting the Organization(Module 4) | Cisco Networking Academy | ⬜Upcoming |
+| 5 | Will Your Future Be in Cybersecurity?(Module 5) | Cisco Networking Academy | ⬜Upcoming |
+| 2 | Splunk Fundamentals 1 | Splunk Education (Free) | ⬜Upcoming |
 
 ---
 
