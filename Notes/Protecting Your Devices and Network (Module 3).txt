@@ -1,0 +1,41 @@
+PROTECTING YOUR DEVICES AND NETWORK
+
+PROTECTING YOUR COMPUTING DEVICES
+	- Turn on Firewall
+	- Install antivirus and antispyware
+	- Manage your operating system and browser
+	- Set up password protection
+	
+WIRELESS NETWORK SECURITY AT HOME
+	- Wireless networks allow laptops and tablets to connect to the network by way of a preset network identifier, known as the service set identifier(SSID).
+	Hackers will be aware of the preset SSID and default password. Therefore, these details should be changed to prevent intruders from entering your home wireless network.
+
+A STRONG PASSWORD
+	- Do not use dictionary words or names in any languages
+	- Do not use common misspellings of dictionary words
+	- If possible, use special characters such as !@#$%^&*()
+	- Do not use computer names or account names
+	- Use a password with more than 10 characters
+	
+WHAT IS ENCRYPTION?
+	- Encryption is a process of converting information into a form in which unauthorized parties cannot read it. Only a trusted authorized person with the secret key or password can decrypt
+	the data and access it in its original form.
+	
+HOW TO ENCRYPT YOUR DATA?
+	- Encrypting File System (EFS) is a Windows feature that can encrypt data. It is directly linked to a specific user account and only 
+	the user that encrypts the data will be able to access it after it has been encrypted using EFS.
+	
+BACK UP YOUR DATA
+	- Having a backup may prevent the loss of irreplaceable data. Can backup in 
+		- Home Network
+		- Secondary Location (simple hard drive, thumb drives, CDs, DVDs, or tapes)
+		- Cloud
+
+SAFE GUARDING YOUR ONLINE PRIVACY
+
+TWO FACTOR AUTHENTICATION
+	- use two factor authentication to add an extra layer of security for account logins.
+	
+OPEN ATUHORIZATION
+	- is an open standard protocol that allows you to use your credentials to access third-party applications without exposing your password.
+	
