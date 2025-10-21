@@ -16,10 +16,14 @@ While looking for a full-time opportunity, I’m dedicating my time to improve m
 
 ## 🧩 Learning Roadmap
 
-| Stage | Course / Topic | Platform | Status | Notes |
-|--------|----------------|-----------|---------|--------|
-| 1 | Introduction to Cybersecurity | Cisco Networking Academy | ⏳Ongoing | Learned about security principles, CIA triad, and types of cyber threats |
-| 2 | Splunk Fundamentals 1 | Splunk Education (Free) | 🔜 Upcoming | Will explore SIEM concepts, log analysis, and incident detection |
+| Stage | Course / Topic | Platform | Status |
+|--------|----------------|-----------|---------|
+| 1 | Introduction to Cybersecurity(Module 1) | Cisco Networking Academy | 🟩Completed |
+| 2 | Attacks, Concepts and Techniques(Module 2) | Cisco Networking Academy | ⏳Ongoing | 
+| 3 | Protecting your Data and Privacy(Module 3) | Cisco Networking Academy | ⬜Upcoming |
+| 4 | Protecting the Organization(Module 4) | Cisco Networking Academy | ⬜Upcoming |
+| 5 | Will Your Future Be in Cybersecurity?(Module 5) | Cisco Networking Academy | ⬜Upcoming |
+| 2 | Splunk Fundamentals 1 | Splunk Education (Free) | ⬜Upcoming |
 
 ---
 
