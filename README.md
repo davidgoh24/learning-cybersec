@@ -22,20 +22,13 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 | 2 | Attacks, Concepts and Techniques (Module 2) | Cisco Networking Academy | 🟩Completed | 
 | 3 | Protecting your Data and Privacy (Module 3) | Cisco Networking Academy | 🟩Completed |
 | 4 | Protecting the Organization (Module 4) | Cisco Networking Academy | 🟩Completed |
-| 5 | Introduction to Software Engineering (IBM) | Coursera | ⬜Upcoming |
-| 6 | Introduction to Cloud Computing (IBM) | Coursera | ⬜Upcoming |
-| 7 | Introduction to HTML, CSS, & JavaScript (IBM) | Coursera | ⬜Upcoming |
-| 8 | Getting Started with Git and GitHub (IBM) | Coursera | ⬜Upcoming |
-| 9 | Developing Front-End Apps with React (IBM) | Coursera | ⬜Upcoming |
-| 10 | Developing Back-End Apps with Node.js and Express (IBM) | Coursera | ⬜Upcoming |
-| 11 | Python for Data Science, AI & Development (IBM) | Coursera | ⬜Upcoming |
-| 12 | Developing AI Applications with Python and Flask (IBM) | Coursera | ⬜Upcoming |
-| 13 | Django Application Development with SQL and Databases (IBM) | Coursera | ⬜Upcoming |
-| 14 | Introduction to Containers w/ Docker, Kubernetes & OpenShift (IBM) | Coursera | ⬜Upcoming |
-| 15 | Application Development using Microservices and Serverless (IBM) | Coursera | ⬜Upcoming |
-| 16 | Full Stack Application Development Capstone Project (IBM) | Coursera | ⬜Upcoming |
-| 17 | Full Stack Software Developer Assessment (IBM) | Coursera | ⬜Upcoming |
-| 18 | Generative AI: Elevate your Software Development Career (IBM) | Coursera | ⬜Upcoming |
+| 5  | Introduction to Software Development (Amazon)     | Coursera  | ⬜ Upcoming   |
+| 6  | Programming with Java (Amazon)                    | Coursera  | ⬜ Upcoming   |
+| 7  | Data Structures and Algorithms (Amazon)            | Coursera  | ⬜ Upcoming   |
+| 8  | Database Management with Java and SQL (Amazon)    | Coursera  | ⬜ Upcoming   |
+| 9  | Full Stack Web Development (Amazon)               | Coursera  | ⬜ Upcoming   |
+| 10 | Generative AI in Software Development (Amazon)    | Coursera  | ⬜ Upcoming   |
+| 11 | Application Development (Amazon)                  | Coursera  | ⬜ Upcoming   |
 
 
 
@@ -49,22 +42,19 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 - Learned about different types of firewall  
 - Gained awareness of how data, devices, and networks are protected
 
-## Introduction to Software Engineering (IBM)
+## Amazon Junior Software Developer with GenAI Professional Certificate
 
 ---
 
 ## 🧾 Next Steps  
-
-- **Complete IBM Software Engineering Professional Certificate** to gain end-to-end exposure to modern development practices  
-- **Build personal projects** (web apps, automation tools, APIs) to apply what I’ve learned and strengthen my portfolio  
+- **Complete Amazon Software Development Professional Certificate** to gain end-to-end exposure to modern programming and system design practices  
+- **Build personal projects** (web apps, AI integrations, automation tools) to apply what I’ve learned and strengthen my portfolio  
 - **Document all projects** in the `/projects` folder with clear READMEs, tech stacks, and deployment notes  
 - **Contribute to open-source projects** to gain collaborative coding experience and improve problem-solving skills  
-- **Learn version control and collaboration best practices** using Git, GitHub, and CI/CD workflows  
+- **Master version control and collaboration best practices** using Git, GitHub, and CI/CD workflows  
 - **Prepare for technical interviews** by practicing algorithms, data structures, and system design questions  
 - **Explore cloud platforms** (AWS / Azure / Google Cloud) and containerization for scalable app deployment  
-- **Stay updated** on new software technologies, frameworks, and tools through online communities and newsletters  
-
-
+- **Stay updated** on emerging technologies such as generative AI, cloud-native tools, and full-stack frameworks through online communities and newsletters  
 
 ---
 ## 🚀 Long-term Goal  
