@@ -1,4 +1,4 @@
-# 🛡️ My Cybersecurity Learning Journey
+# 🛡️ My Cybersecurity and Software Engineer Learning Journey
 
 Hi, I'm **Wei Bin**, a recent **Computer Science graduate majoring in Cyber Security** from **SIM**.  
 
