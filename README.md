@@ -2,15 +2,15 @@
 
 Hi, I'm **Wei Bin**, a recent **Computer Science graduate majoring in Cyber Security** from **SIM**.  
 
-While looking for a full-time opportunity, I’m dedicating my time to improve my technical skills and deepen my understanding of cybersecurity. I’m passionate about continuous learning and eager to explore real-world cybersecurity tools, frameworks, and practices. My goal is to become a skilled cybersecurity professional capable of identifying, analyzing, and defending against modern threats.
+While seeking a full-time opportunity, I’m dedicating my time to improving my technical skills and deepening my understanding of software engineering. I’m passionate about continuous learning and enjoy exploring real-world tools, frameworks, and development practices that drive innovation. My goal is to become a skilled software engineer capable of designing, building, and optimizing scalable solutions that make a meaningful impact.
 
 ---
 
 ## 🎯 Objectives
-- Strengthen my foundation in cybersecurity concepts and tools  
-- Build hands-on experience through online labs and practical exercises  
-- Document my learning progress for accountability and growth  
-- Stay current with cybersecurity trends and technologies  
+- Strengthen my foundation in software engineering and cybersecurity fundamentals
+- Build hands-on experience through real-world coding projects, online labs, and security-focused exercises
+- Document my learning journey to track growth and reinforce consistency
+- Stay current with emerging technologies, software trends, and evolving cybersecurity practices 
 
 ---
 
@@ -22,23 +22,21 @@ While looking for a full-time opportunity, I’m dedicating my time to improve m
 | 2 | Attacks, Concepts and Techniques (Module 2) | Cisco Networking Academy | 🟩Completed | 
 | 3 | Protecting your Data and Privacy (Module 3) | Cisco Networking Academy | 🟩Completed |
 | 4 | Protecting the Organization (Module 4) | Cisco Networking Academy | 🟩Completed |
-| 5 | Communication in a Connected World (Module 1) | Cisco Networking Academy | ⬜Upcoming |
-| 6 | Network Components, Types, and Connections (Module 2) | Cisco Networking Academy | ⬜Upcoming |
-| 7 | Wireless and Mobile Network (Module 3) | Cisco Networking Academy | ⬜Upcoming |
-| 8 | Build a Home Network (Module 4) | Cisco Networking Academy | ⬜Upcoming |
-| 9 | Communication Principles (Module 5) | Cisco Networking Academy | ⬜Upcoming |
-| 10 | Network Media (Module 6) | Cisco Networking Academy | ⬜Upcoming |
-| 11 | The Access Layer (Module 7) | Cisco Networking Academy | ⬜Upcoming |
-| 12 | The Internet Protocol (Module 8) | Cisco Networking Academy | ⬜Upcoming |
-| 13 | IPv4 and Network Segmentation (Module 9) | Cisco Networking Academy | ⬜Upcoming |
-| 14 | IPv6 Addressing Formats and Rules (Module 10) | Cisco Networking Academy | ⬜Upcoming |
-| 15 | Dynamic Addressing with DHCP (Module 11) | Cisco Networking Academy | ⬜Upcoming |
-| 16 | Gateways to Other Networks (Module 12) | Cisco Networking Academy | ⬜Upcoming |
-| 17 | The ARP Process (Module 13) | Cisco Networking Academy | ⬜Upcoming |
-| 18 | Routing Between Networks (Module 14) | Cisco Networking Academy | ⬜Upcoming |
-| 19 | TCP and UDP (Module 15) | Cisco Networking Academy | ⬜Upcoming |
-| 20 | Application Layer Services (Module 16) | Cisco Networking Academy | ⬜Upcoming |
-| 21 | Network Testing Utilities (Module 17) | Cisco Networking Academy | ⬜Upcoming |
+| 5 | Introduction to Software Engineering (IBM) | Coursera | ⬜Upcoming |
+| 6 | Introduction to Cloud Computing (IBM) | Coursera | ⬜Upcoming |
+| 7 | Introduction to HTML, CSS, & JavaScript (IBM) | Coursera | ⬜Upcoming |
+| 8 | Getting Started with Git and GitHub (IBM) | Coursera | ⬜Upcoming |
+| 9 | Developing Front-End Apps with React (IBM) | Coursera | ⬜Upcoming |
+| 10 | Developing Back-End Apps with Node.js and Express (IBM) | Coursera | ⬜Upcoming |
+| 11 | Python for Data Science, AI & Development (IBM) | Coursera | ⬜Upcoming |
+| 12 | Developing AI Applications with Python and Flask (IBM) | Coursera | ⬜Upcoming |
+| 13 | Django Application Development with SQL and Databases (IBM) | Coursera | ⬜Upcoming |
+| 14 | Introduction to Containers w/ Docker, Kubernetes & OpenShift (IBM) | Coursera | ⬜Upcoming |
+| 15 | Application Development using Microservices and Serverless (IBM) | Coursera | ⬜Upcoming |
+| 16 | Full Stack Application Development Capstone Project (IBM) | Coursera | ⬜Upcoming |
+| 17 | Full Stack Software Developer Assessment (IBM) | Coursera | ⬜Upcoming |
+| 18 | Generative AI: Elevate your Software Development Career (IBM) | Coursera | ⬜Upcoming |
+
 
 
 ---
@@ -51,19 +49,32 @@ While looking for a full-time opportunity, I’m dedicating my time to improve m
 - Learned about different types of firewall  
 - Gained awareness of how data, devices, and networks are protected
 
-## Networking Basics
+## Introduction to Software Engineering (IBM)
 
 ---
 
-## 🧾 Next Steps
-- Complete Cisco Networking Basic free course
+## 🧾 Next Steps  
+
+- **Complete IBM Software Engineering Professional Certificate** to gain end-to-end exposure to modern development practices  
+- **Build personal projects** (web apps, automation tools, APIs) to apply what I’ve learned and strengthen my portfolio  
+- **Document all projects** in the `/projects` folder with clear READMEs, tech stacks, and deployment notes  
+- **Contribute to open-source projects** to gain collaborative coding experience and improve problem-solving skills  
+- **Learn version control and collaboration best practices** using Git, GitHub, and CI/CD workflows  
+- **Prepare for technical interviews** by practicing algorithms, data structures, and system design questions  
+- **Explore cloud platforms** (AWS / Azure / Google Cloud) and containerization for scalable app deployment  
+- **Stay updated** on new software technologies, frameworks, and tools through online communities and newsletters  
+
 
 
 ---
+## 🚀 Long-term Goal  
 
-## 🚀 Long-term Goal
-To develop a strong technical foundation in threat analysis, network defense, and incident response. I aim to combine theoretical knowledge with practical experience to contribute effectively in a cybersecurity role.
+My long-term goal is to become a well-rounded **Software Engineer** who can design, build, and maintain scalable, secure, and user-focused applications.  
+I aim to integrate my background in cybersecurity and data analytics to develop solutions that are not only efficient but also resilient against modern threats.  
 
+Through continuous learning, project building, and real-world experience, I aspire to:  
+- Work in a **tech-driven company** that values innovation, collaboration, and impact  
+- Contribute to **end-to-end product development**, from system architecture to deployment
 ---
 
 *Last updated: [October 2025]*
