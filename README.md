@@ -21,7 +21,7 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 | 2 | Attacks, Concepts and Techniques (Module 2) | Cisco Networking Academy | 🟩Completed | 
 | 3 | Protecting your Data and Privacy (Module 3) | Cisco Networking Academy | 🟩Completed |
 | 4 | Protecting the Organization (Module 4) | Cisco Networking Academy | 🟩Completed |
-| 5 | Getting Started with Front-End and Web Development (IBM) | Coursera | ⬜ Upcoming |
+| 5 | Getting Started with Front-End and Web Development (IBM) | Coursera | 🟩Completed |
 | 6 | Introduction to Software Engineering (IBM) | Coursera | ⬜ Upcoming |
 | 7 | Designing User Interfaces and Experiences (UI/UX) (IBM) | Coursera | ⬜ Upcoming |
 | 8 | Introduction to HTML, CSS, && JavaScript (IBM) | Coursera | ⬜ Upcoming |
@@ -49,6 +49,16 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 - Gained awareness of how data, devices, and networks are protected
 
 ## IBM Front-End Development with Figma, Bootstrap & Git Professional Certificate
+Module 1
+- Web development covers both front-end (user interface & experience) and back-end (logic & databases) work.
+Full-stack developers handle both ends — from design to deployment — ensuring usability, security, and performance.
+
+- The web runs on browsers, DNS, and HTTP/HTTPS protocols secured by SSL/TLS.
+Servers use server-side scripts, while load balancing and cloud hosting (IaaS, PaaS, SaaS) improve reliability and scalability.
+Web frameworks, version control (Git/GitHub), CI/CD, and package managers streamline development.
+
+- No-code platforms let users create apps via visual tools with no programming.
+CMS tools like WordPress manage website content easily with plugins, and SEO boosts online visibility.
 
 ---
 
