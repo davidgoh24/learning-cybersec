@@ -1,0 +1,550 @@
+OVERVIEW OF BROWSERS
+
+WHAT I WILL LEARN
+	- Identify the role and evolution of web browsers
+	- SUmmarize the popular web browsers
+	- Evaluate the capabilities of web browsers
+	- Differentiate between mobile and desktop browsers
+
+
+- IDENTIFY THE ROLE AND EVOLUTION OF WEB BROWSERS
+	- From Netscape Navigator (1994) Speed and user-friendly
+	- Internet Explorer (1995) Bundled with Windows
+	- Mozilla Firefox (2004) Revolutionized browsing
+	- Google Chrome (2008) Seamless synchronization
+	- Opera (1995) Enhance user privacy
+	- Safari (2003) Seamless browsing experience
+	- Microsoft Edge (2015) Leading browser for Windows 10
+	
+BROWSER CAPABILITIES
+	- Rendering HTML, CSS, JavaScript
+	- Supporting plugins and extensions
+	- Using incognito/private browsing mode
+
+-----------------------------------------------------------------------------------------------------
+
+HOW BROWSERS AND REQUEST WORK
+
+WHAT I WILL LEARN
+	- Analyze the steps involved in loading a web page
+	- Describe the Domain Name System (DNS)
+	- Recall the process of DNS lookup in translating domain names into IP addresses
+
+- DNS translates domain names into IP addresses, enabling access to websites and online services.
+- Web requests involve DNS hierachy, request initiation, recursive resolution, TLD server contact, and authoritative name server query to retrieve IP address.
+- DNS lookup includes recursive resolution, contacting root and TLD servers, querying authoritative name servers, caching IP addresses, and using TTL values.
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO HTTP AND HTTPS 
+	- Define HTTP and identify its request and response parts
+	- Describe HTTPS and explore its benefits and misconceptions
+	- Identify the differences between HTTP and HTTPS
+	- Describe SSL/TLS protocols and certificates
+	
+
+HTTP = Hypertext transfer protocols
+
+HTTP METHODS
+	- GET method
+		- Retrieves resources and is safe
+		- Doesn't modify server data
+	- POST method
+		- Submits data for processing or storage
+		- Used for forms or purchases
+	- PUT method
+		- Updates existing resources with new client-provided content
+	- DELETE method
+		- Removes a resource from the server
+		- Example: Deleting a user account
+
+WHAT IS HTTPS?
+	- is an extension of HTTP that adds encryption and security measures to the communication between client and server.
+	- Uses SSL/TLS protocols for strong encryption
+	
+SSL/TLS PROTOCOLS AND CERTIFICATES
+	- Secure Sockets Layer and Transport Layer Security are cryptographic protocols
+ 
+Digital Certificates are proof of website authenticity. Contain owner information and issued by trusted CA (Certificate Authorities).
+
+-----------------------------------------------------------------------------------------------------
+
+HOW DOES A WEB SERVER WORK? 
+	- Describe the webserver and its key functions
+	- Determine the web server's role in handling incoming requests
+	- summarize server-side scripting languages and web server configuration
+	- explain how load balancing works
+	
+
+- Webservers ensure content delivery, optimize performance, enforce security measures, and enable scalability for increased traffic
+- Server-side scripting languages enable web servers to generate dynamic content with logic separation
+- Web server configuration includes parameters like port numbers, virtual hosting, and security measures
+- Load balancing ensures optimal resource utilization and improve fault tolerance.
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO WEBSITES AND PAGES 
+	- Describe a webpage and its importance
+	- Identify the anatomy and functionality of a website
+	- list types of websites and webpages
+	- explore how to design, create and publish a website
+
+-----------------------------------------------------------------------------------------------------
+
+WEB FRAMEWORKS AND PLATFORMS 
+	- define web frameworks and platforms and highlight their benefits
+	- identify popular web development frameworks and platforms
+	- summarize key considerations when choosing a web framework or platform
+	- explore future trends in web frameworks and platforms
+
+- Web frameworks simplify development by providing pre-built components and tools, saving timing and effort.
+- using popular web frameworks fosters cleaner, maintainable codebases and facilitates collaoration within large user communities.
+- different types of frameworks cater to specific needs, like front-end, back-end, and full-stack development.
+- Benfits of using web frameworks include faster coding, modular design, built-in security, and scalability.
+- Web development platforms like CMS, E-commerce, and cloud-based options offer comprehensive solutions for specific purposes.
+- consider technical requirements, resources, and integration capabilities when choosing a framework or platform.
+
+-----------------------------------------------------------------------------------------------------
+
+WEB HOSTING AND OTHER INTERNET PROTOCOLS 
+	- define web hosting and its advantages
+	- identify different types of web hosting services
+	- recognize widely used internet protocols
+
+- internet protocols are the sets of rules that enable effective communication between computers and other devices over the internet
+- some of the popular, widely used protocols are DNS, HTTP, and FTP
+
+-----------------------------------------------------------------------------------------------------
+
+WEB LANGUAGES 
+	- define web languages and their importance
+	- identify the various categories of web languages
+	- recognize the commonly used web languages
+	
+- web languages are programming languages that create interactive and dynamic web pages, enhancing the online experience.
+- APIs are crucial in connecting web applications with external services or data sources
+- web languages consist of server-side languages, frameworks and libraries, and APIs
+- common web languages include HTML, CSS, JavaScript, Python, Ruby, Java, C#, Go, TypeScript, Swift, and Rust.
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO ACCESSIBILITY 
+	- descibe accessibility and the impact of inaccurate design
+	- classify common barriers and accessibility laws
+	- explore strategies for website accessibility
+	
+-----------------------------------------------------------------------------------------------------
+
+SAVING DATA ON THE WEB 
+	- Recognize the benefits of saving data on the web
+	- examine the types and methods of saving data
+	- applying the best practices and strategies for implementing web data storage
+	- analyze the future trends in web data storage
+
+- benefits of online data storage includes eliminating the need for physical storage devices, fostering seamless collaboration, scalability for growing data, and providing backups for data safety
+- types of data you can save on the web include textual, multimedia, and structured data.
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO CLOUD 
+	- descibe the cloud and its benefits
+	- identify the common cloud models and the key players in the cloud industry
+	- recognize the security considerations in cloud computing
+	- analyze the future trends in cloud computing
+
+- cloud service models include IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service), catering to different user needs
+	- IaaS
+		- provides virtualized computing resources
+	- PaaS
+		- offers platform for developing, testing, and deploying applications
+	- SaaS
+		- delivers software applications over the internet
+- key players in the cloud industry are Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud.
+- security consider in the cloud involve data privacy, compliance, and shared responsibility.
+
+-----------------------------------------------------------------------------------------------------
+
+OVERVIEW OF WEB AND CLOUD DEVELOPMENT
+	- descibe the basics of website interaction
+	- define front-end and back-end development
+	- recognize the developer tools and their importance in the web and cloud development workflow
+	
+-----------------------------------------------------------------------------------------------------
+
+LEARNING FRONT-END DEVELOPMENT
+	- discuss the key languages used in the front-end development of a website
+	- define the importance of creating a responsive and adaptive website
+	- recognize various javascript frameworks used in web development
+	
+- HTML is used for website content and structur
+- CSS is used for website style
+- JavaScript is used for website interactivity
+	- React.js
+		- developed and maintained by Facebook
+		- A JavaScript library that builds and renders components for a web page
+- SASS (Syntactically Awesome Style Sheets) is a faster extension of CSS
+	- Learner Style Sheets (LESS)
+		- enhances CSS by adding more styles and functions
+- Frameworks are libraries of code for developers
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCING APPLICATION DEVELOPMENT TOOLS
+	- describe the role of version control, libraries, and frameworks in application development
+	- explain the concept of inversion of control in frameworks
+
+FRAMEWORK EXAMPLES
+	- AngularJS
+		- JavaScript-based framework for dynamic web applications
+	- Vue.js
+		- JavaScript framework focused on the user interface
+	-Django
+		- Uses Python for web development
+
+-----------------------------------------------------------------------------------------------------
+
+MORE APPLICATION DEVELOPMENT TOOLS
+	- define the essential tools utilized in cloud application development
+	- explore CI/CD and streamline deployment with build tools & package managers
+
+CI/CD
+	- Continuous Integration with Continuous Delivery or Continuous Deployment
+	- enables developers to deliver frequent changes reliably
+	- implemented through a build-automation server
+	- CI automatically builds and tests code
+
+- CI ensures frequent integration of codes, while CD automates building, testing, and deploying code changes
+- build tools transform your source code into the binaries needed for installation
+- packages are archive files containing the app files, instructions for installation, and any metadata you choose
+- package managers are used for finding, installing, maintaing or uninstalling software packages at the user's request
+
+-----------------------------------------------------------------------------------------------------
+
+WHAT IS NO-CODE DEVELOPMENT? 
+	- define no-code development
+	- recognize the differences between traditional coding and no-code development
+	- discuss the advantages and use cases of no-code development
+	- identify the challenges and future trends of no-code development
+
+-----------------------------------------------------------------------------------------------------
+
+NO-CODE TECHNOLOGIES AND TOOLS
+	- discuss the various no-code tools and technologies available
+	- identify the advantages and disadvantages of using these tools
+	
+- Bubble allows to design and build functional and interactive web applications through a visual interface
+- Adalo offers an intuitive drag-and-drop interface to design mobile applications
+- Webflow offers a visual editor facilitating the creating of responsive websites
+- OutSystems is a feature-rich platform that empowers users to create high-quality applications
+- AppSheet allows users to connect to various data sources like spreadsheets, databases, and cloud services
+- Thunkable allows you to create Android and IOS apps though its user-friendly interface
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO CONTENT MANAGEMENT SYSTEM (CMS)
+	- define content management systems (CMSs)
+	- list serveral CMS software/platforms
+	- recognize the benefits of using a CMS
+
+CMS
+	- build website
+	- create, manage, and modify content
+	- well-managed content
+	- two core parts
+		- content management application (CMA)
+		- content delivery application (CDA)
+	
+
+WEB CONTENT MANAGEMENT SYSTEM (WCMS)
+	- controls the content
+	- handles HTML documents
+
+DIGITAL ASSET MANAGEMENT SYSTEM (DAMS)
+	- customer experience
+	- correct delivery
+	- centralizes assets, content, workflows, and operations
+	
+ENTERPRISE CONTENT MANAGEMENT SYSTEM (ECMS)
+	- unstructured data
+	- deliver correct content
+
+CMS SOFTWARE
+	- wordpress
+	- drupal
+	- joomla
+	- magento
+	
+WHY CMS?
+	- recognizable and comfortable website
+	- quick and easy website creation
+	- scheduled updates
+	- afforable
+	- website customization
+	- drag-and-drop
+	
+-----------------------------------------------------------------------------------------------------
+	
+FEATURES OF WEB CMS
+	- describe a web content management system (WCMS) and its types
+	- identify the characteristics of the web content management system
+	- explain the enterprise content management system (ECMS)
+	
+
+types of WCMSs
+	- no-code
+		- technical and non-technical users
+		- beginners and small businesses
+	- code
+		- customizable web page
+		- knowledge of programming languages
+		
+Characteristics of a WCMS
+	- create web pages
+	- review and approve content
+	- automate publishing 
+	- edit and format content
+	- collaborate with different users 
+	- scale and implement changes
+	
+ECMS
+	- manages contents for businesses
+	- integrate tools
+	- WCMS: A subset of ECMS
+	- aligns with routine business operations
+
+-----------------------------------------------------------------------------------------------------
+	
+POPULAR CMS PLATFORMS/TOOLS
+	- explain headless content management system (CMS)
+	- identify popular CMS platforms and tools
+
+tools 
+	- wordpress
+		- one of the most popular
+		- offers the freedom to build and run any type of website without a developer
+		- offers more extensibility through various plugins and apps
+	- Joomla
+		- comes with lots of different templates and extensions
+		- is ideal for developers and experienced website creators
+		- has a large pool of extensions that gives plenty of design options and constant features updates
+	- Squarespace
+		- integrated platform to build your own website
+		- allows you to do blogging, host your content, and sell your products and services
+		- requires you to sign up for subscription
+		- makes it easy for you to build website from scratch
+		
+-----------------------------------------------------------------------------------------------------
+
+WEB DEVELOPMENT WITH CMS - PART 1
+	- explain important elements of a web development plan
+	- define best practices for a successful business website
+
+Elements of a Web development plan
+	- developing a web strategy
+	- adopting a global approach
+	- creating page templates
+	- foucsing on personalization
+	- leveraging user and group roles
+	
+-----------------------------------------------------------------------------------------------------
+
+WEB DEVELOPMENT WITH CMS - PART 2
+	- identify the types of pages of a website
+	- explain the features of a CMSs
+
+- Front page
+- Post page
+- List/category page
+- search page
+- user/author profile
+- user home or dashboard
+
+Features of a CMS
+	- page design
+	- blog content
+	- content storage
+
+-----------------------------------------------------------------------------------------------------
+
+INTRODUCTION TO SEO AND USING SEO PATTERNS IN CMS WEBSITES
+	- define SEO and its benefits
+	- determine common SEO patterns found in CMS website
+	- identify best practices for using SEO patterns in CMS websites
+	
+SEO is Search Engine Optimization
+	- optimizes a website for better visibility
+	- increases organic traffic
+	- focuses on content and structured
+	- improves ranking
+	
+Conent Management System (CMS)
+	- software platform
+		- easy content creation, editing, and management
+		- features and capabilities
+		
+-----------------------------------------------------------------------------------------------------
+
+Roles, Responsibilities, and Titles of a Front-End Developer 
+	- identify the roles and responsibilities of front-end developers
+	- describe various job titles available in front-end development
+	
+-----------------------------------------------------------------------------------------------------	
+
+DEVELOPING FRONT-END SKILLS 
+	- identify the important skills required for front-end development
+	- recognize continuous learning skills required to advance as front-end developer 
+	
+continuous kill developement
+	- new tech such as
+		- React
+		- Angular
+		- Vue.js
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
