@@ -52,7 +52,7 @@ CMS tools like WordPress manage website content easily with plugins, and SEO boo
 ---
 
 ## 🧾 Next Steps  
-- **Complete HTML, CSS, JavaScript and React course on Youtube
+- **Complete HTML, CSS, JavaScript and React** course on Youtube
 - **Build and deploy personal web projects** showcasing interactive design, responsive layouts, and real-world functionality  
 - **Document all projects** in the `/projects` folder with detailed READMEs, tech stacks, and deployment instructions  
 - **Master version control and collaboration workflows** through Git, GitHub, and CI/CD integration  
