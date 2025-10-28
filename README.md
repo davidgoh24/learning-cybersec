@@ -22,19 +22,8 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 | 3 | Protecting your Data and Privacy (Module 3) | Cisco Networking Academy | 🟩Completed |
 | 4 | Protecting the Organization (Module 4) | Cisco Networking Academy | 🟩Completed |
 | 5 | Getting Started with Front-End and Web Development (IBM) | Coursera | 🟩Completed |
-| 6 | Introduction to Software Engineering (IBM) | Coursera | ⬜ Upcoming |
-| 7 | Designing User Interfaces and Experiences (UI/UX) (IBM) | Coursera | ⬜ Upcoming |
-| 8 | Introduction to HTML, CSS, && JavaScript (IBM) | Coursera | ⬜ Upcoming |
-| 9 | Developing Websites and Front-Ends with Bootstrap (IBM) | Coursera | ⬜ Upcoming |
-| 10 | Getting Started with Git and GitHub (IBM) | Coursera | ⬜ Upcoming |
-| 11 | Developing Front-End Apps with React (IBM) | Coursera | ⬜ Upcoming |
-| 12 | Intermediate Web and Front-End Development (IBM) | Coursera | ⬜ Upcoming |
-| 13 | Front-End Development Capstone Project (IBM) | Coursera | ⬜ Upcoming |
-| 14 | Get Started with Cloud Native, DevOps, Agile, and NoSQL (IBM) | Coursera | ⬜ Upcoming |
-| 15 | Application Development using Microservices and Serverless (IBM) | Coursera | ⬜ Upcoming |
-| 16 | Full Stack Application Development Capstone Project (IBM) | Coursera | ⬜ Upcoming |
-| 17 | Full Stack Software Developer Assessment (IBM) | Coursera | ⬜ Upcoming |
-| 18 | Generative AI: Elevate your Software Development Career (IBM) | Coursera | ⬜ Upcoming |
+| 5 | HTML & CSS Full Course - Beginner to Pro | Youtube | Ongoing |
+
 
 
 
@@ -63,13 +52,10 @@ CMS tools like WordPress manage website content easily with plugins, and SEO boo
 ---
 
 ## 🧾 Next Steps  
-- **Complete the IBM Front-End and Web Development Professional Certificate** to build strong foundations in UI/UX, front-end coding, and responsive web design  
-- **Advance toward Full Stack Development** by integrating front-end (React, Bootstrap) with back-end frameworks (Node.js, Flask, Django)  
+- **Complete HTML, CSS, JavaScript and React course on Youtube
 - **Build and deploy personal web projects** showcasing interactive design, responsive layouts, and real-world functionality  
 - **Document all projects** in the `/projects` folder with detailed READMEs, tech stacks, and deployment instructions  
-- **Contribute to open-source front-end or full-stack repositories** to gain collaborative experience and strengthen problem-solving skills  
 - **Master version control and collaboration workflows** through Git, GitHub, and CI/CD integration  
-- **Explore cloud-native tools and DevOps practices** (Docker, Kubernetes, Agile, NoSQL) to enhance scalability and modern deployment capabilities  
 - **Stay updated** on emerging trends such as generative AI, cloud-native web development, and evolving front-end frameworks through online communities and tech newsletters  
 
 ---
