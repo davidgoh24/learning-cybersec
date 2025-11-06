@@ -49,8 +49,7 @@ Web frameworks, version control (Git/GitHub), CI/CD, and package managers stream
 CMS tools like WordPress manage website content easily with plugins, and SEO boosts online visibility.
 
 
-
-### HTML & CSS Full Course - Beginner to Pro
+## HTML & CSS Full Course - Beginner to Pro
 Major Skills of HTML/CSS
 - Nested Layouts
 - Display:block/inline-block;
