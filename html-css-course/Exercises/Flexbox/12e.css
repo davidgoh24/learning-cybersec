@@ -1,0 +1,20 @@
+.contain {
+}
+
+.flexbox {
+  display: flex; 
+  justify-content: space-between;
+  width: 250px;
+  margin-top: 10px;
+}
+
+.noti {
+  background-color: rgb(88, 78, 233);
+  color: white;
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}

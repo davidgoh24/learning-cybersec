@@ -1,0 +1,43 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pfp {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+  object-fit: cover;
+}
+
+.handle {
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.name {
+  margin-bottom: 3px;
+}
+
+.second {
+  margin-bottom: 3px;
+  color: gray;
+}
+
+.follow {
+  background-color: rgb(124, 190, 245);
+  color: white;
+  border : none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}

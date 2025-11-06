@@ -1,0 +1,11 @@
+.blank {
+}
+
+.grey {
+  background-color: grey;
+  width: 320px;
+  height: 180px;
+  position:fixed;
+  bottom: 20px;
+  right: 20px;
+}

@@ -1,0 +1,23 @@
+.flexbox {
+  display: flex;
+}
+
+.column1 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.column2 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.row1 {
+
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

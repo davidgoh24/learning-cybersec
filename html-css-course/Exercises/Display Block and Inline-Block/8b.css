@@ -1,0 +1,14 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.chat{
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+}
+
+.button{
+  
+}

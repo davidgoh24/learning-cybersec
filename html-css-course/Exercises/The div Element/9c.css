@@ -1,0 +1,7 @@
+.service{
+border-color: grey;
+  border: solid;
+  width: 300px;
+  height: 100px;
+  padding-left: 10px;
+}
