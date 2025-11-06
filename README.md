@@ -58,6 +58,31 @@ Major Skills of HTML/CSS
 - Position
 - Created Youtube Clone (Only design)
 
+
+## JavaScript Tutorial Full Course
+1. JavaScript Basics
+	- JavaScript is giving instructions to a computer
+	- Wrote JavaScript code
+	- Run our code using the Console
+	- Syntax
+
+2. Number and Math
+	- Numbers and Math
+	- Order of Operations, and Brackets (...)
+	- Calculated the numbers in final project
+	- Calculations using floats can be inaccurate
+	- Math.round()
+
+3. Strings
+	- String = text
+	- Use strings and numbers together
+	- Three ways to create strings:
+		'...' "..." `...` (template strings)
+	- Escape characters: \' \n
+	- Interpolation, multi-line strings
+
+4. 
+
 ---
 
 ## 🧾 Next Steps  
