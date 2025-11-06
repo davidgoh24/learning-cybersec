@@ -22,9 +22,8 @@ While seeking a full-time opportunity, I’m dedicating my time to improving my 
 | 3 | Protecting your Data and Privacy (Module 3) | Cisco Networking Academy | 🟩Completed |
 | 4 | Protecting the Organization (Module 4) | Cisco Networking Academy | 🟩Completed |
 | 5 | Getting Started with Front-End and Web Development (IBM) | Coursera | 🟩Completed |
-| 5 | HTML & CSS Full Course - Beginner to Pro | Youtube | Ongoing |
-
-
+| 6 | HTML & CSS Full Course - Beginner to Pro | Youtube | 🟩Completed |
+| 7 | JavaScript Tutorial Full Course - Beginner to Pro | Youtube | Ongoing |
 
 
 ---
@@ -48,6 +47,15 @@ Web frameworks, version control (Git/GitHub), CI/CD, and package managers stream
 
 - No-code platforms let users create apps via visual tools with no programming.
 CMS tools like WordPress manage website content easily with plugins, and SEO boosts online visibility.
+
+
+### HTML & CSS Full Course - Beginner to Pro
+Major Skills of HTML/CSS
+- Nested Layouts
+- Display:block/inline-block;
+- Grid
+- Flexbox
+- Position
 
 ---
 
