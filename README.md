@@ -60,34 +60,33 @@ Major Skills of HTML/CSS
 
 
 ## JavaScript Tutorial Full Course
-**1. JavaScript Basics**
-	- JavaScript is giving instructions to a computer
-	- Wrote JavaScript code
-	- Run our code using the Console
-	- Syntax
+1. **JavaScript Basics**  
+   - JavaScript is giving instructions to a computer  
+   - Wrote JavaScript code  
+   - Run our code using the Console  
+   - Syntax  
 
-**2. Number and Math**
-	- Numbers and Math
-	- Order of Operations, and Brackets (...)
-	- Calculated the numbers in final project
-	- Calculations using floats can be inaccurate
-	- Math.round()
+2. **Number and Math**  
+   - Numbers and Math  
+   - Order of Operations, and Brackets `(...)`  
+   - Calculated the numbers in final project  
+   - Calculations using floats can be inaccurate  
+   - `Math.round()`  
 
-**3. Strings**
-	- String = text
-	- Use strings and numbers together
-	- Three ways to create strings:
-		'...' "..." `...` (template strings)
-	- Escape characters: \' \n
-	- Interpolation, multi-line strings
+3. **Strings**  
+   - String = text  
+   - Use strings and numbers together  
+   - Three ways to create strings: `'...'`, `"..."`, `` `...` `` *(template strings)*  
+   - Escape characters: `\'`, `\n`  
+   - Interpolation, multi-line strings  
 
-**4. HTML CSS Review, `console.log`**  
-- Reviewed basics of **HTML** and **CSS**  
-- Load JavaScript inside an HTML file — `<script>`, `onclick=""`  
-- Comments  
-  - **CSS:** `/**/`  
-  - **HTML:** `<!-- -->`  
-  - **JS:** `//` or `/**/` *(multi-line)*
+4. **HTML CSS Review, `console.log`**  
+   - Reviewed basics of **HTML** and **CSS**  
+   - Load JavaScript inside an HTML file — `<script>`, `onclick=""`  
+   - Comments  
+     - **CSS:** `/**/`  
+     - **HTML:** `<!-- -->`  
+     - **JS:** `//` or `/**/` *(multi-line)*
 
 
 ---
