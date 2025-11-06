@@ -81,7 +81,14 @@ Major Skills of HTML/CSS
 	- Escape characters: \' \n
 	- Interpolation, multi-line strings
 
-4. 
+4. HTML CSS Review, console.log
+	- Reviewed basics of HTML and CSS
+	- Load JavaScript inside an HTML file
+		<script>, onclick""
+	- Comments
+		CSS = /**/
+		HTML = <!-- -->
+		JS = // or /**/ (multi-line)
 
 ---
 
