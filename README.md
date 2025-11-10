@@ -125,5 +125,5 @@ Through continuous learning, project building, and real-world experience, I aspi
 - Contribute to **end-to-end product development**, from system architecture to deployment
 ---
 
-*Last updated: [06 November 2025]*
+*Last updated: [10 November 2025]*
 
