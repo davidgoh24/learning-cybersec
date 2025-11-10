@@ -88,6 +88,22 @@ Major Skills of HTML/CSS
      - **HTML:** `<!-- -->`  
      - **JS:** `//` or `/**/` *(multi-line)*
 
+5. **Variables**
+	- Variables = a way to save values
+	- Re-assign a variable
+	- Created the Cart Quatity feature
+	- Shortcuts for re-assigning a variable
+	- Naming conventions and best practices
+	- 3 ways to create a variable: let, const and var
+
+6. Booleans and if-Statements
+    - Boolean values (true, false)
+    - If-statements
+    - Comparison Operators (>, <, >=, <=, ===, !==)
+        Logical Operators (&&, ||, !)
+    - Algorithms, and created Rock Paper Scissors
+    - Truthy and Falsy values
+    - Shorts for if-statements (ternary, guard, default)
 
 ---
 
