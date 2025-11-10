@@ -96,7 +96,7 @@ Major Skills of HTML/CSS
 	- Naming conventions and best practices
 	- 3 ways to create a variable: let, const and var
 
-6. Booleans and if-Statements
+6. **Booleans and if-Statements**
     - Boolean values (true, false)
     - If-statements
     - Comparison Operators (>, <, >=, <=, ===, !==)
