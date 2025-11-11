@@ -105,6 +105,12 @@ Major Skills of HTML/CSS
     - Truthy and Falsy values
     - Shorts for if-statements (ternary, guard, default)
 
+7. **Functions**
+	- Functions = let us reuse code
+	- Return = get a value out of a function
+	- Parameters = put values into a function
+	- Improved the code for Rock, Paper, Scissors
+
 ---
 
 ## 🧾 Next Steps  
