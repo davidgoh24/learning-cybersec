@@ -111,6 +111,21 @@ Major Skills of HTML/CSS
 	- Parameters = put values into a function
 	- Improved the code for Rock, Paper, Scissors
 
+8. **Objects**
+   - Objects = group related values together  
+   - Added a score to Rock Paper Scissors  
+   - Built-in objects (`JSON`, `localStorage`)  
+   - More details (null, auto-boxing, references)  
+   - Shortcuts (destructuring, shorthand property, shorthand method)
+
+9. **Document Object Model (DOM)**
+   - Document Object Model (DOM)  
+   - `document.querySelector()`  
+   - `.innerHTML`  
+   - 3 projects using the DOM  
+   - `onkeydown=""`  
+   - More details about strings + window object
+
 ---
 
 ## 🧾 Next Steps  
