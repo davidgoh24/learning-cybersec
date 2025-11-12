@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <body>
+    <button onclick=" 
+    playGame('heads')
+    ">
+      heads
+    </button>
+    
+    <button onclick="
+    playGame('tails')
+    ">
+      tails
+    </button>
+
+    <script>
+      
+      const score = {
+        win: 0,
+        lose: 0
+      };
+
+      function playGame(guess) {
+        let randNumber = Math.random();
+
+        let computerMove = '';
+        let result = '';
+
+        if (randNumber < 0.5) {
+          computerMove = 'heads'
+        } else {
+          computerMove = 'tails'
+        }
+
+        if (guess === computerMove) {
+          result = console.log('You win!');
+        } else {
+          result= console.log('You lose!');
+        }
+      }
+
+    </script>
+  </body>
+</html>

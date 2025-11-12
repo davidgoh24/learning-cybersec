@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Challenge Exercise
+    </title>
+    </head>
+
+    <body>
+
+      <button onclick="
+        pressCalculator('1');
+        ">
+        1
+      </button>
+
+      <button onclick="
+        pressCalculator('2');
+      ">
+        2
+      </button>
+
+      <button onclick="
+        pressCalculator('3');
+      ">
+        3
+      </button>
+
+      <button onclick="
+        pressCalculator('+');
+      ">
+        +
+      </button>
+
+      <button onclick="
+        pressCalculator('=');
+      ">
+        =
+      </button>
+
+      <script>
+        let calculation = '';
+
+        function  pressCalculator(number) {
+          if (number === '1') {
+            calculation += '1';
+            console.log(calculation);
+          } else if (number === '2') {
+            calculation += '2';
+            console.log(calculation);
+          } else if (number === '3') {
+            calculation += '3';
+            console.log(calculation);
+          } else if (number === '+') {
+            calculation += ' + ';
+            console.log(calculation);
+          } else if (number === '=') {
+            calculation = eval(calculation);
+            console.log(calculation);
+          }
+        }
+      </script>
+    </body>
+</html>
