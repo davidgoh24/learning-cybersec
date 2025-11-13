@@ -2,15 +2,51 @@
 <html>
   <head>
     <title>DOM</title>
+
+    <style>
+      
+      body {
+        font-family: Arial;
+      }
+      
+      .subscribe-button {
+        border: none;
+        padding: 10px 15px;
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      .is-subscribed {
+        border: none;
+        background-color: rgb(240, 240, 240);
+        color: black
+      }
+
+      .cost-input {
+        font-size: 15px;
+        padding: 10px;
+      }
+
+      .calculate-button {
+        padding: 12px 15px;
+        font-size: 15px;
+        background-color: green;
+        color: white;
+        border: none;
+      }
+    </style>
   </head>
   <body>
     <p>
       Youtube Subscribe Button
     </p>
 
-    <button class="js-subscribe-button" onclick="
+    <button class="js-subscribe-button subscribe-button" onclick="
     subscribe();
-    " style=" margin-bottom: 50px;">
+    " style=" margin-bottom: 30px;">
       Subscribe
     </button>
 
@@ -27,10 +63,10 @@
     <p>
       Orders over $40 = FREE shipping.
     </p>
-    <input class="js-cost-input" placeholder="Cost of order" onkeydown="
+    <input class="js-cost-input cost-input" placeholder="Cost of order" onkeydown="
     handleCostKeyDown(event);
     ">
-    <button onclick="
+    <button class="calculate-button" onclick="
     calculateTotal();
     ">      
       Calculate
@@ -54,8 +90,10 @@
     
         if (buttonElement.innerText === 'Subscribe') {
           buttonElement.innerHTML = 'Subscribed';
+          buttonElement.classList.add('is-subscribed');
         } else {
           buttonElement.innerHTML = 'Subscribe';
+          buttonElement.classList.remove('is-subscribed');
         }
       }
 
