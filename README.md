@@ -125,6 +125,12 @@ Major Skills of HTML/CSS
    - 3 projects using the DOM  
    - `onkeydown=""`  
    - More details about strings + window object
+  
+10. **HTML, CSS, and JavaScript Together**
+	- Reviewed CSS, and added CSS to projects
+	- .classList
+	- Finished Rock Paper Scissors
+	- Organize JavaScript and CSS code into separate files
 
 ---
 
